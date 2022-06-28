@@ -28,7 +28,7 @@ Dedicated Piwik PRO library that helps with implementing Piwik PRO Tag Manager a
 To use this package in your project, run the following command.
 
 ```
-npm install @piwik-pro/ngx-piwik-pro
+npm install @piwikpro/ngx-piwik-pro
 ```
 
 
